@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qPTgY1u81PaLKGINoCw+ijYwZTkLLUJB7qZEfksx7smtpt1VpHsI4RXVw4Y3RRWb5n/S6yaJZKvNTV4Iz3zkfw==",
+  "success": true,
+  "projectFilePath": "D:\\BaiTap3.1\\Demo\\Demo.API\\Demo.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
